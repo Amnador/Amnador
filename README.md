@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/samuel-cardoso-da-costa-e-silva-895240160/](https://www.linkedin.com/in/samuel-cardoso-da-costa-e-silva-895240160/)
 
-- ⚡ Fun fact **I’m (proudly) autistic — so if you're looking for a focused, detail-loving PCD professional, I'm right here!**
+- ⚡ Fun fact **I’m (proudly) autistic — so if you're looking for a focused, detail-loving PWD professional, I'm right here!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
