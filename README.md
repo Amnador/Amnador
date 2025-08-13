@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **HCLTech**
 
-- 🌱 I’m currently learning **QA and Fullstack development at Mate Academy — diving into software testing, automation, and building web applications from scratch.**
-
 - 👯 I’m looking to collaborate to **collaborate on beginner-friendly QA and test automation projects where I can grow, contribute, and learn with others.**
 
 - 🤝 I’m looking for help with **with improving my skills in test automation frameworks like Selenium, JUnit, and TestNG.**
